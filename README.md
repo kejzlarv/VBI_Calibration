@@ -4,8 +4,8 @@ This repository contains complete Python code to reproduce the simulation and ca
 
 ## Content of jupyter notebooks with source code:
 1. [Variational Bayesian calibration - Simulation and LDM](Variational_calibration.ipynb) - Self-sufficient notebook with the complete implementation of VBI. It contains source code for both the simulation and the LDM calibration applications. Sampling from posterior predictive distributions and least squares estimates for the LDM are also implemented here.
-2. [MCMC based Bayesian calibration - Simulation](Scalability_plots.ipynb) - Self-sufficient notebok with implementation of MCMC based calibration under the simulation scenario.
-3. [MSE and Memory profiles plots](MCMC_calibration.ipynb) - Contains source code for Fig.3 and Fig.6 from the manuscript.
+2. [MCMC based Bayesian calibration - Simulation](MCMC_calibration.ipynb) - Self-sufficient notebok with implementation of MCMC based calibration under the simulation scenario.
+3. [MSE and Memory profiles plots](Scalability_plots.ipynb) - Contains source code for Fig.3 and Fig.6 from the manuscript.
 
 ## Content of supplementary files:
 1. [AME2003 dataset](mass.mass03) - Raw dataset of experimental binding energies
